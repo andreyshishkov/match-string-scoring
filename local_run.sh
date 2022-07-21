@@ -1,0 +1,1 @@
+uvicorn string_scoring.main:app --reload
